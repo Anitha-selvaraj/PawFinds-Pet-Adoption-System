@@ -13,15 +13,15 @@ const Footer = (props) => {
       </div>
       <div className="below-footer">
         <p>
-          You can reach me at{" "}
-          <a className="mail-links" href="mailto:kashifkzmi5@gmail.com">
-            kashifkzmi5@gmail.com
+          You can reach me at - Anitha -{" "}
+          <a className="mail-links" href="mailto:anitha11062005@gmail.com">
+           anitha11062005@gmail.com
           </a>
         </p>
         <p>
           <a
             className="contact-links"
-            href="https://www.linkedin.com/in/kashiekzmi/"
+            href="https://www.linkedin.com/in/anitha2005/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -30,32 +30,15 @@ const Footer = (props) => {
           &nbsp;&nbsp;|&nbsp;&nbsp;
           <a
             className="contact-links"
-            href="https://github.com/KaShiekzmi"
+            href="https://github.com/Anitha-selvaraj"
             target="_blank"
             rel="noopener noreferrer"
           >
             <i className="fa fa-github"></i> GitHub
           </a>
           &nbsp;&nbsp;|&nbsp;&nbsp;
-          <a
-            className="contact-links"
-            href="https://www.instagram.com/kaxhie_x/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fa fa-instagram"></i> Instagram
-          </a>
-          &nbsp;&nbsp;|&nbsp;&nbsp;
-          <a
-            className="contact-links"
-            href="https://api.whatsapp.com/qr/GXRHM7PEPNOKA1?autoload=1&app_absent=0"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fa fa-whatsapp"></i> WhatsApp
-          </a>
         </p>
-        <p>&copy; 2023 Kashif Abbas Kazmi</p>
+        <p>&copy; 2025 Anitha Selvaraj</p>
       </div>
     </footer>
   );
